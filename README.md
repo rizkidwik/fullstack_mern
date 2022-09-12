@@ -1,3 +1,3 @@
-# fullstack_mern
+# Fullstack MERN
 
-Fullstack MERN
+MongoDB,ExpressJS,ReactJS,NodeJS
